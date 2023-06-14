@@ -1,0 +1,37 @@
+.message-right{
+
+    background:  #FFFDD0;
+    border-radius: 25px;
+    padding: 0.5em 1em !important;
+    margin: 1em;
+}
+.message-left{
+  
+
+    background: #FFFFF0;
+    /* background: #fbca53 ;
+    opacity: 0.85; */
+    border-radius: 25px;
+    padding: 0.5em 1em !important;
+    margin: 1em;
+}
+/* .d-flex {
+    background-color: rgba(255, 255, 255, 0.128);
+
+} */
+.message-text{
+
+    font-size: 17px;
+   color: black;
+}
+.message-icon{
+ 
+    font-size: 25px;
+   margin: 5px;
+}
+.message-icon{
+    color: black;
+}
+/* .top_container{
+    background-color: rgba(255, 255, 255, 0.128) !important;
+} */
